@@ -1,0 +1,13 @@
+{
+  "title": "ニコ豆腐",
+  "name": "nicodof",
+  "version": "0.0.1",
+  "description": "ニコニコ動画フィルター",
+  "main": "index.js",
+  "author": "katsuren",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
